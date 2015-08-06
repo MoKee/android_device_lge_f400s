@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_lge_f400s",
+    "target_path": "vendor/lge/f400s"
+  },
+  {
     "repository": "android_device_lge_g3-common",
     "target_path": "device/lge/g3-common"
   }
